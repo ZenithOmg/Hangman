@@ -1,2 +1,2 @@
-# Tic-tac-toe
-Do you wanna play a game of **Tic-tac-toe**??
+# Hangman
+Do you wanna play a game of **Hangman**??
